@@ -24,3 +24,9 @@ padding-right: 10px;
 padding-bottom: 50px;
 padding-left: 10px;
 }
+
+header
+main
+footer {
+    font-size: 2.0em;
+}
