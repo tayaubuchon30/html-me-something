@@ -1,17 +1,11 @@
 
 
-p.normal {
-    font-style: normal;
-}
-
-
-
-h1 {color: white;
-}
-
-
 body {
 text-align: center;
+}
+
+body {
+    background-color: mediumseagreen;
 }
 
 #page-wrap {
@@ -24,6 +18,17 @@ padding-right: 10px;
 padding-bottom: 50px;
 padding-left: 10px;
 }
+
+
+p.normal {
+    font-style: normal;
+}
+
+
+
+h1 {color: darkgreen;
+}
+
 
 header
 main
